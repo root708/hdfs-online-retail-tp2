@@ -1,0 +1,4 @@
+# Jeu de données (volumineux, à télécharger séparément)
+*.xlsx
+*.csv
+*.zip
